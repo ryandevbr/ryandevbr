@@ -1,4 +1,3 @@
-```markdown
 # Ryan Lucas de Freitas Martins
 
 ### Construindo soluções para vidas reais.
@@ -65,4 +64,3 @@ Sistema de alerta antecipado de cheias do Rio Piracicaba para a comunidade de Ca
 <p align="center">
   <i>"A tecnologia só faz sentido quando resolve problemas reais de pessoas reais."</i>
 </p>
-```
